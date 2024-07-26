@@ -1,0 +1,12 @@
+{
+	"name": "node-uuid-unique",
+	"version": "1.0.0",
+	"description": "Generate UUID",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "saravana <saravanakumara512@gmail.com>",
+	"license": "MIT",
+	"keywords": ["uuid", "UUID", "crypto", "GUID", "uniqueid", "unique", "id", "RFC 4122", "random UUID", "random"]
+}
